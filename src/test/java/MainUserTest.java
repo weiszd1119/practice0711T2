@@ -47,7 +47,7 @@ public class MainUserTest {
 	@Test
 	@Epic("Practice")
 	@Story("Practice on Swag Labs")
-	@Description("Add elements to Cart on Swag Labes")
+	@Description("Add elements to Cart on Swag Labs")
 	@Severity(SeverityLevel.NORMAL)
 	public void cartAtSwagLabs() throws InterruptedException {
 		loginToSwagLabs();
